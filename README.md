@@ -1,16 +1,15 @@
-# val_app
+# Val App
 
-A new Flutter project.
+## Objective
 
-## Getting Started
+The Val app provides a platform for users to create and share posts, interact through messaging, and save drafts for future updates. Users can post text, images, or videos, engage with friends via direct messaging, and easily draft content before publishing. The app offers a seamless experience for staying connected and sharing moments, with a focus on convenience and privacy.
 
-This project is a starting point for a Flutter application.
+### Tools Used
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Firebase
+- In App Purchases
+- Firebase Cloud Messaging (FCM)
+- Provider
+- Xcode
+- Android Studio
