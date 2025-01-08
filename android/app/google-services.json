@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "979773933033",
+    "project_id": "vall-app-f2528",
+    "storage_bucket": "vall-app-f2528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979773933033:android:442572d567d0cbdd903778",
+        "android_client_info": {
+          "package_name": "com.bitswits.vals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979773933033-57l5opdi32f573t7aftlrgquvjg3oqol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitswits.vals",
+            "certificate_hash": "0fd08f1b8b8a74be3c2defc858c89f90fa0cd563"
+          }
+        },
+        {
+          "client_id": "979773933033-l7e8umppbp28duslpmcibau4p61di2gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZYqGYiLOVlLux8PjgCLA_aTjltL-FJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979773933033-l7e8umppbp28duslpmcibau4p61di2gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+enum PickerType { gallery, camera }
